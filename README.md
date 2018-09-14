@@ -1,0 +1,1 @@
+For your Lesson 2 Practice Hands-On, you will be practicing your new knowledge on objects and will be working within Visual Studio Code. This Hands-On will not be graded, but we encourage you to complete it.
